@@ -1,0 +1,4 @@
+com\example\dna\DnaApplication.class
+com\example\dna\controller\SequenceController.class
+com\example\dna\service\SequenceService.class
+com\example\dna\model\Sequence.class
